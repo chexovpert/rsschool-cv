@@ -1,0 +1,16 @@
+body {
+    margin-left: auto;
+    margin-right: center;
+    text-align: center;
+    background-color: gold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 24px;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+}
